@@ -2,7 +2,6 @@ import {v2 as cloudinary} from "cloudinary"
 
 import fs from "fs"  // file system in node js, bydefault comes with node js , 
 
-import { v2 as cloudinary } from 'cloudinary';
 
 
 
